@@ -77,4 +77,4 @@ Turning financial data into meaningful insights.
 
 ⭐ 如果你對 資料分析、財經資訊、Python、SQL 或 BI 視覺化 有興趣，歡迎與我交流！
 
-api examploe: https://mymis168.github.com/bs4demo/
+api examploe: https://mymis168.github.io/bs4demo/
