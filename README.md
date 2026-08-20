@@ -76,3 +76,5 @@ Turning financial data into meaningful insights.
 專注於資料分析、資料工程與財經資訊，希望透過資料技術協助企業與個人從大量資料中找到有價值的資訊，並將分析結果轉化為更好的決策依據。
 
 ⭐ 如果你對 資料分析、財經資訊、Python、SQL 或 BI 視覺化 有興趣，歡迎與我交流！
+
+api examploe: https://mymis168.github.com/bs4demo/
